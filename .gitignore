@@ -16,3 +16,7 @@ Thumbs.db
 
 # Arquivos temporários do Office
 ~$*
+
+# Apresentações: o repositório guarda só o PDF
+*.pptx
+*.potx

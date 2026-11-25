@@ -9,9 +9,9 @@
 | Arquivo | Descrição |
 |---------|-----------|
 | [`notebooks/hands_on_qualidade_de_contexto.ipynb`](notebooks/hands_on_qualidade_de_contexto.ipynb) | Notebook do hands-on em PT-BR, com os diagramas embutidos |
-| [`slides/hands_on_qualidade_de_contexto.pptx`](slides/hands_on_qualidade_de_contexto.pptx) | Deck de 19 slides com roteiro nas notas do apresentador |
-| [`assets/diagramas/`](assets/diagramas/) | Diagramas em PNG (os mesmos embutidos no notebook) |
-| [`originais_en/`](originais_en/) | Notebook e deck originais em inglês |
+| [`slides/hands_on_qualidade_de_contexto.pdf`](slides/hands_on_qualidade_de_contexto.pdf) | Apresentação em PDF (19 slides) |
+| [`assets/diagramas/`](assets/diagramas/) | Diagramas em PNG (os mesmos do notebook e da apresentação) |
+| [`originais_en/`](originais_en/) | Notebook e apresentação originais em inglês (PDF) |
 
 ## Agenda (~2 horas)
 

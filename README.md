@@ -1,6 +1,6 @@
 # Camada de Contexto
 
-Material de hands-on sobre a **camada de contexto** de aplicações de IA (RAG e agentes) com **MongoDB Atlas + Voyage AI**. Cada módulo traz um notebook Jupyter executável e o deck de apoio para a apresentação.
+Material de hands-on sobre a **camada de contexto** de aplicações de IA (RAG e agentes) com **MongoDB Atlas + Voyage AI**. Cada módulo traz um notebook Jupyter executável e a apresentação de apoio em PDF.
 
 ## Módulos
 
@@ -22,13 +22,13 @@ camada_contexto/
     ├── 01_qualidade_de_contexto/
     │   ├── README.md
     │   ├── notebooks/            # notebook do hands-on (PT-BR)
-    │   ├── slides/               # deck da apresentação (PT-BR)
-    │   ├── assets/diagramas/     # diagramas usados no notebook e no deck
+    │   ├── slides/               # apresentação em PDF (PT-BR)
+    │   ├── assets/diagramas/     # diagramas usados no notebook e na apresentação
     │   └── originais_en/         # versões originais em inglês
     └── 02_montagem_de_contexto/
         ├── README.md
         ├── notebooks/            # notebook do benchmark (PT-BR)
-        ├── slides/               # deck da apresentação (PT-BR)
+        ├── slides/               # apresentação em PDF (PT-BR)
         ├── assets/diagramas/     # diagramas e gráficos
         └── originais_en/         # versões originais em inglês
 ```

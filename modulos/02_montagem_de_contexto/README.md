@@ -9,9 +9,9 @@
 | Arquivo | Descrição |
 |---------|-----------|
 | [`notebooks/hands_on_montagem_de_contexto.ipynb`](notebooks/hands_on_montagem_de_contexto.ipynb) | Notebook do benchmark em PT-BR, com os diagramas embutidos |
-| [`slides/hands_on_montagem_de_contexto.pptx`](slides/hands_on_montagem_de_contexto.pptx) | Deck de 23 slides com roteiro nas notas do apresentador |
+| [`slides/hands_on_montagem_de_contexto.pdf`](slides/hands_on_montagem_de_contexto.pdf) | Apresentação em PDF (23 slides) |
 | [`assets/diagramas/`](assets/diagramas/) | Diagramas e gráficos em PNG |
-| [`originais_en/`](originais_en/) | Notebook e deck originais em inglês |
+| [`originais_en/`](originais_en/) | Notebook e apresentação originais em inglês (PDF) |
 
 ## A escada de ablação
 
