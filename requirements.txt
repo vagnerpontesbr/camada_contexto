@@ -1,0 +1,11 @@
+# Módulo 01 · Qualidade de contexto
+docling>=2.40
+pymongo>=4.13
+httpx>=0.28
+requests
+numpy
+pandas
+python-dotenv
+ipywidgets
+matplotlib
+jupyter
