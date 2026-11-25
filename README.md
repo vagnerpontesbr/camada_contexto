@@ -7,7 +7,7 @@ Material de hands-on sobre a **camada de contexto** de aplicações de IA (RAG e
 | # | Módulo | Conteúdo | Status |
 |---|--------|----------|--------|
 | 01 | [Qualidade de contexto](modulos/01_qualidade_de_contexto/) | Ingestão com Docling, embeddings contextualizados, Matryoshka, `$vectorSearch`, ANN × ENN, busca híbrida com `$rankFusion` e reranking | ✅ Disponível |
-| 02 | [Montagem de contexto](modulos/02_montagem_de_contexto/) | A definir | 🚧 Em preparação |
+| 02 | [Montagem de contexto](modulos/02_montagem_de_contexto/) | Benchmark de montagem de contexto: prefixo estável, projeção e tags, filtro de vigência, k por avaliação e `voyage-context-4`, medindo custo, acurácia e latência | ✅ Disponível |
 
 ## Estrutura
 
@@ -27,9 +27,10 @@ camada_contexto/
     │   └── originais_en/         # versões originais em inglês
     └── 02_montagem_de_contexto/
         ├── README.md
-        ├── notebooks/
-        ├── slides/
-        └── assets/diagramas/
+        ├── notebooks/            # notebook do benchmark (PT-BR)
+        ├── slides/               # deck da apresentação (PT-BR)
+        ├── assets/diagramas/     # diagramas e gráficos
+        └── originais_en/         # versões originais em inglês
 ```
 
 Cada módulo segue a mesma estrutura (`notebooks/`, `slides/`, `assets/diagramas/`), para que um novo módulo entre no repositório sem mudar a organização.
@@ -37,8 +38,9 @@ Cada módulo segue a mesma estrutura (`notebooks/`, `slides/`, `assets/diagramas
 ## Pré-requisitos
 
 - Python 3.10+ e Jupyter (VS Code, JupyterLab ou Colab)
-- Cluster **MongoDB Atlas 8.0+** (recomendado **M10**; o passo a passo está na seção 0.1 do notebook do módulo 01)
-- **Model API key da Voyage AI** criada no Atlas (passo a passo na seção 0.2 do notebook do módulo 01)
+- Cluster **MongoDB Atlas 8.0+** (recomendado **M10**; passo a passo na seção 0.1 do módulo 01 e 0.2 do módulo 02). O módulo 02 também roda com MongoDB Community 8.2+ local via Docker
+- **Model API key da Voyage AI** criada no Atlas (passo a passo na seção 0.2 do módulo 01 e 0.3 do módulo 02)
+- **API key da OpenAI** (só no módulo 02)
 
 ## Como começar
 

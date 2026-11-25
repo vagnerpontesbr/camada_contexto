@@ -9,3 +9,7 @@ python-dotenv
 ipywidgets
 matplotlib
 jupyter
+
+# Módulo 02 · Montagem de contexto
+openai>=1.99
+tiktoken
